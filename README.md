@@ -31,8 +31,9 @@ Note Table
 
 
 Note Editing
+--------------
 * Notes have an id, title, description, and body
 * All except the id can be edited
 * When you save your note, it is serialized and will be revived between runs
 
-<img src="http://imgur.com/ujSaPGh,7ZcLUL9,XxBUo6A#1" alt="NoteUI" >
+<img src="http://i.imgur.com/7ZcLUL9.png" alt="NoteUI" >
