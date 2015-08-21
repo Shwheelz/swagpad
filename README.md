@@ -40,3 +40,8 @@ Note Editing
 * Notes have an id, title, description, and body
 * All except the id can be edited
 * When you save your note, it is serialized and will be revived between runs
+
+To Do
+--------------
+* Have JTable automatically update the model from NoteTableUI so users don't have to click into a note to edit title and description
+* Fix users sharing the same NoteList
