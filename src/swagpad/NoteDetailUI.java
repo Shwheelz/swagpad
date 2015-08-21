@@ -9,7 +9,7 @@ import java.util.ArrayList;
  */
 public class NoteDetailUI extends JFrame{
     
-    private final int FRAME_WIDTH = 700;
+    private final int FRAME_WIDTH = 800;
     private final int FRAME_HEIGHT = 500;
     private final int FIELD_WIDTH = 10;
    
